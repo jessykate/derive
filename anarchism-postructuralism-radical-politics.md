@@ -1,12 +1,16 @@
 # Anarchism, Postructuralism and the Future of Radical Politics
 
-Saul Newman, 2007
-
 ## Meta
 
-Publisher: https://muse.jhu.edu/article/219430/pdf
+Saul Newman, 2007
 
-Download: http://sci-hub.io/10.1353/sub.2007.0035. 
+**Publisher**: [https://muse.jhu.edu/article/219430/pdf](https://muse.jhu.edu/article/219430/pdf)
+
+**Download**: [http://sci-hub.io/10.1353/sub.2007.0035](http://sci-hub.io/10.1353/sub.2007.0035).
+
+**Read**: July 2017
+
+**Why**: referenced in [The Anarchist Roots of Geography, Simon Springer](https://www.goodreads.com/book/show/34612837-the-anarchist-roots-of-geography), 2016.
 
 ## Notes
 
