@@ -4,7 +4,8 @@
 * [Nomad Citizenship](nomad-citizenship.md)
 * [Anarchism, Postructuralism and Radical Politics](anarchism-postructuralism-radical-politics.md)
 * [Concepts](concepts.md)
-* [Readings](readings.md)
+* [To Read](toread.md)
 * [Methodology](methodology.md)
 * [Real World](real-world.md)
+* [Anarchist Roots of Geography](anarchist-roots-of-geography.md)
 
