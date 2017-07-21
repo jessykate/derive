@@ -5,4 +5,6 @@
 * [Concepts](concepts.md)
 * [Readings](readings.md)
 * [Methodology](methodology.md)
+* [Nomad Citizenship](nomad-citizenship.md)
+* Real World
 
