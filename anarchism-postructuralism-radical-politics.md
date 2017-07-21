@@ -32,6 +32,13 @@ Saul Newman, 2007
   * we need new forms of sovereignty - "popular sovereignty" - a "force without power" \(Derrida\)
   * the nature of what is considered universal in this contingent future, and who decides what is universal, will very much be the site of political struggle.
   * post-anarchist universality must be something around which heterogeneous groups can mobilize 
+* at a time when we need new options, **"anarchism-- for so long overshadowed by Marxism-- can perhaps become the referent for a radical politics of the future." **
+
+
+
+_"Contemporary radical politics is therefore a politics that avoids the forms of the state-- the seductive trap of state power that lay in wait for revolutionary movements in the past. It invents its own, non-institutional, decentralized forms of politics and mass participation that are not sanctioned by the state and that go beyond the formal parliamentary process. Implicit here is an anarchist style of politics that seeks not to take control of state power, but rather to create new, non-statist forms of communal association and direct democracy that would make the state irrelevant."_  
+
+
 
 [^1]: cf. Meillassoux, _After Finitude:_ _an essay on the necessity of contingency_. Recommended by David. 
 
