@@ -9,5 +9,4 @@
 * [Concepts](concepts.md)
 * [To Read](toread.md)
 * [Methodology](methodology.md)
-* Society Against the State
 
