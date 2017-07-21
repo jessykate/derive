@@ -2,8 +2,6 @@
 
 Saul Newman, 2007
 
-
-
 * key elements of anarchist thought include
   * post-statist politics
   * post-party politics
