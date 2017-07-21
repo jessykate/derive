@@ -1,10 +1,10 @@
 # Summary
 
 * [Introduction](README.md)
+* [Nomad Citizenship](nomad-citizenship.md)
 * [Anarchism, Postructuralism and Radical Politics](anarchism-postructuralism-radical-politics.md)
 * [Concepts](concepts.md)
 * [Readings](readings.md)
 * [Methodology](methodology.md)
-* [Nomad Citizenship](nomad-citizenship.md)
-* Real World
+* [Real World](real-world.md)
 
