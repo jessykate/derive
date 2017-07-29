@@ -6,10 +6,10 @@
 * Archive.org has a [PDF version](https://archive.org/details/ClastresSocietyAgainstTheStateEssaysInPoliticalAnthropology)
 * Read because: referenced in Nomad Citizenship, and also in D&G "Treatise on Nomadology"
 
-## Notes on the introduction chapter: Co  pernicus and the Savages
+## Notes on the introduction chapter: Copernicus and the Savages
 
 * "When there is neither coercion or violence, is it impossible to speak of power?" (P. 11)
-* "A vast constellation of societies in which the holders of what elsewhere would be called power are without power; where the political is determined as a domain beyond coercion and violence, beyond hierarchical subordination; where, in a word, no relationship of command-obedience is in force." (P. 11-12)
+* "A vast constellation of societies in which the holders o  f what elsewhere would be called power are without power; where the political is determined as a domain beyond coercion and violence, beyond hierarchical subordination; where, in a word, no relationship of command-obedience is in force." (P. 11-12)
 * Is this a question of semantics about the definition of the existence of political systems? 
 * historically, anthropologists considered these societies "pre political"
 * but if that's the case then we have to explain their political (social/organizational) structures some other way, or, we have to deny that these social/political structures exist. If neither if these are true, then maybe they're not pre-political. 
