@@ -51,5 +51,5 @@ Re: Coercion & Innovation...: Can you innovate without coercive power? Cf. Compa
 Non coercive power pre-dates coercive power?
 
 
-
+----------
 cf. key reference: Lapierre "essai sur la fondement du pouvoir politique" 1968 
