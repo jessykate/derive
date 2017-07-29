@@ -45,11 +45,11 @@ Things to prove:
 * the equating of politics and power. An alternative would be to define politics as involving both power and non-power. Does it matter if we redefine politics or redefine power?
 
 **Base argument:** that you cannot have society without the political. But our thinking about politics assumes it is hierarchical and coercive. This excludes a meaningful analysis of societies that don't exhibit these traits. Therefore our conception of the political has to be rethought to account for societies which do not exhibit traditional coercive forms of politics. 
---> Is this then equating the political with power? On p. 23: "...the social cannot be conceived without the political. In other words, there are no societies without power." This is a clear equation. 
+  * --> Is this then equating the political with power? On p. 23: "...the social cannot be conceived without the political. In other words, there are no societies without power." This is a clear equation. 
 
 Re: Coercion & Innovation...: Can you innovate without coercive power? Cf. Companies, culture and governance.
 Non coercive power pre-dates coercive power?
 
 
 
-Lapierre "essai sur la fondement du pouvoir politique" 1968 
+cf. key reference: Lapierre "essai sur la fondement du pouvoir politique" 1968 
