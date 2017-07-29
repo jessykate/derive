@@ -33,7 +33,6 @@ So:
   * Absolute difference from what? From non-society? He has already proposed that, so I guess is just restating it more formally here? And also taking it further: saying it is not just correlation but causation. The emergence of politics is the lynchpin for the emergence of society. 
  * "A Copernican revolution is at stake... A complete reversal of perspectives is necessary."
 
- 
 
 LOVE: 
 * Structure of the argument.
