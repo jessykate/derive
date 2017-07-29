@@ -29,14 +29,15 @@ So:
 * why is there political power rather than nothing?
 * "we do not claim to furnish the answer; our aim has been merely to state why previous answers are unsatisfactory and on what conditions a correct answer is possible... " This results in "two major lines of inquiry: (1) what is political power? That is: what is society? (2) what explains the transition from non-coercive political power to coercive political power, and how does the transition come about? That is: what is history?" (p. 24)
   * So... History begins when coercive power comes into play? Is this because (he postulates that) coercive power is correlated with (social) innovation, without which we have no change and therefore no history?
+* "what was the first motor of social change? Perhaps we should look for it in the very thing that in archaic societies is concealed from our gaze, _in the political itself_." (p. 25). He continues, "it this would be necessary to return to Durkheim's idea... According to which political power presupposes social differentiation: might it not be political power that constitutes society's absolute difference? Could that not be the radical fissure at the root of the social, the initial break on which all movement and history depend, the primal splitting at the core of all differences?"
+  * Absolute difference from what? From non-society? He has already proposed that, so I guess is just restating it more formally here? And also taking it further: saying it is not just correlation but causation. The emergence of politics is the lynchpin for the emergence of society. 
+ * "A Copernican revolution is at stake... A complete reversal of perspectives is necessary."
+
  
 
 LOVE: 
 * Structure of the argument.
 * how it takes your from thinking this is "just" a semantic argument to showing how those semantics can fundamentally alter our realm of inquiry and analysis. 
-* "what was the first motor of social change? Perhaps we should look for it in the very thing that in archaic societies is concealed from our gaze, _in the political itself_." (p. 25). He continues, "it this would be necessary to return to Durkheim's idea... According to which political power presupposes social differentiation: might it not be political power that constitutes society's absolute difference? Could that not be the radical fissure at the root of the social, the initial break on which all movement and history depend, the primal splitting at the core of all differences?"
-  * Absolute difference from what? From non-society? He has already proposed that, so I guess is just restating it more formally here? And also taking it further: saying it is not just correlation but causation. The emergence of politics is the lynchpin for the emergence of society. 
- * "A Copernican revolution is at stake... A complete reversal of perspectives is necessary."
 
 Things to prove:
 * Why it's useful to incorporate new forms of power into the definition vs call it something else
