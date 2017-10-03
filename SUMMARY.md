@@ -9,4 +9,5 @@
 * [Concepts](concepts.md)
 * [To Read](toread.md)
 * [Methodology](methodology.md)
+* [Anarchist Ideas Reading List](anarchist-ideas-reading-list.md)
 
