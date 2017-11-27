@@ -3,7 +3,7 @@
 ## Meta
 
 **Reference**: Manuel DeLanda, A Thousand Years of Nonlinear History, 2000. [Goodreads](https://www.goodreads.com/book/show/88941.A_Thousand_Years_of_Nonlinear_History)
-**Read**: Fall 2016
+**Read**: Summer 2016
 **Why:** via Eric Rogers
 
 ## Overview
