@@ -10,5 +10,4 @@
 * [Concepts](concepts.md)
 * [To Read](toread.md)
 * [Methodology](methodology.md)
-* [A Thousand Years of Nonlinear History](a-thousand-years-of-nonlinear-history.md)
 
