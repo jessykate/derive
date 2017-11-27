@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [A Thousand Years of Nonlinear History](a-thousand-years-of-nonlinear-history.md)
 * [Nomad Citizenship](nomad-citizenship.md)
 * [Anarchist Roots of Geography](anarchist-roots-of-geography.md)
 * [Anarchism, Postructuralism and Radical Politics](anarchism-postructuralism-radical-politics.md)
@@ -9,5 +10,5 @@
 * [Concepts](concepts.md)
 * [To Read](toread.md)
 * [Methodology](methodology.md)
-* [Anarchist Ideas Reading List](anarchist-ideas-reading-list.md)
+* [A Thousand Years of Nonlinear History](a-thousand-years-of-nonlinear-history.md)
 
