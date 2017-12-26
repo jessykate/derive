@@ -10,7 +10,7 @@
 
 * Alternative conceptions of the state 
 * rather than dismiss the state, explore redefining it (do not "abandon the state to neoliberalism")
-* use British radical municipalism as an example of ways to reimagine
+* use British Radical Municipalism (BMR) as an example of ways to reimagine
 * exploration of what prefiguration means, nice references. 
 * focus on _conceptual_ prefiguration
 * suggest BMR can be a reference for conceptually prefiguring alternatives to the current concept of the state [1]. 
