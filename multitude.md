@@ -41,7 +41,7 @@ This is sort of my interpretation rather than a very close summary. I found this
 * but we need a critique of arms, we need to invent new weapons for democracy today. 
 * guns are not the right tool for these resistances, not the right tools for this fight. 
 
-**TLDR:**
+## TLDR 
 * multitude makes sovereignty irrelevant (disagree)
 * it will change the way that democracy is practiced (agree)
 * it will decenter current ruling parties. 
