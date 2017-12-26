@@ -41,13 +41,14 @@ This is sort of my interpretation rather than a very close summary. I found this
 * but we need a critique of arms, we need to invent new weapons for democracy today. 
 * guns are not the right tool for these resistances, not the right tools for this fight. 
 
-TLDR:
+**TLDR:**
 * multitude makes sovereignty irrelevant (disagree)
 * it will change the way that democracy is practiced (agree)
 * it will decenter current ruling parties. 
 * the status quo rulers/those in power will not let the multitude go quietly into a new way of organizing.  
 * we will need to develop new tools for resisting in this modern theatre of battle. (me: physical violence is not necessarily where it's at.)
-* any violence used for resistance should be applied democratically (legitimately) 
+* any violence used for resistance should be applied democratically (legitimately)
+
 
 other thoughts:
 * i either don't follow or simply don't find this to be a good argument about sovereignty. it seems to be contradicting itself. 
