@@ -12,7 +12,7 @@
 * rather than dismiss the state, explore redefining it (do not "abandon the state to neoliberalism")
 * use British Radical Municipalism (BMR) as an example of ways to reimagine
 * exploration of what prefiguration means, nice references. 
-* focus on _conceptual_ prefiguration
+* focus on _conceptual_ prefiguration (not enacting but conceiving)
 * suggest BMR can be a reference for conceptually prefiguring alternatives to the current concept of the state [1]. 
 * draw on "legal pluralism" to open up more plural ways of conceptualizing the state (nice references here too)
 * legal pluralism presumed that more than one system of law (or 'normative ordering') exists in any social field. 
