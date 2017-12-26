@@ -13,4 +13,5 @@
 * [Anarchy, State and Utopia](anarchy-state-and-utopia.md)
 * [Imagined Communities](imagined-communities.md)
 * Multitude
+* [Prefiguring the State](prefiguring-the-state.md)
 
