@@ -1,6 +1,8 @@
 # Prefiguring the state
 
-Prefiguring the State, Davina Cooper, Antipode, 2016. 
+Prefiguring the State, Davina Cooper, Antipode, 2016. ([Antipode](http://onlinelibrary.wiley.com/doi/10.1111/anti.12277/abstract) page. [Academia.edu](https://www.academia.edu/29589089/Prefiguring_the_state) page). 
+
+Why read: came across this while browsing papers 'liked' by anarchist geographers I followed on academia.edu. 
 
 ## Notes
 
