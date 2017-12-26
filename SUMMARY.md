@@ -8,8 +8,6 @@
 * [Anarchism, Postructuralism and Radical Politics](anarchism-postructuralism-radical-politics.md)
 * [Anarchist Geographies of Territorialisation](anarchist-geographies-of-territorialisation.md)
 * [Society Against the State](society-against-the-state.md)
-* [Concepts](concepts.md)
-* [To Read](toread.md)
 * [Anarchy, State and Utopia](anarchy-state-and-utopia.md)
 * [Imagined Communities](imagined-communities.md)
 * [Multitude](multitude.md)
