@@ -12,6 +12,6 @@
 * [To Read](toread.md)
 * [Anarchy, State and Utopia](anarchy-state-and-utopia.md)
 * [Imagined Communities](imagined-communities.md)
-* Multitude
+* [Multitude](multitude.md)
 * [Prefiguring the State](prefiguring-the-state.md)
 
