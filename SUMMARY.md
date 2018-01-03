@@ -12,5 +12,5 @@
 * [Imagined Communities](imagined-communities.md)
 * [Multitude](multitude.md)
 * [Prefiguring the State](prefiguring-the-state.md)
-* [Post-geographic nation states](Post Geographic Nation States/post-geographic-nation-states.md)
+* [Notes: Post-geographic nation states](Post Geographic Nation States/post-geographic-nation-states.md)
 
