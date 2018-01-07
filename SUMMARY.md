@@ -14,7 +14,7 @@
 * [Multitude](multitude.md)
 
 ### Notes
-* [Post-geographic nation states](Post Geographic Nation States/README.md)
+* [Post-geographic nation states](pgns/README.md)
   * [Trends](pgns/trends.md)
   * [What do we Mean](pgns/what-do-we-mean.md)
   * 
