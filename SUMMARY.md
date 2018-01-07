@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* Readings
+### Readings
+
 * [A Thousand Years of Nonlinear History](a-thousand-years-of-nonlinear-history.md)
 * [Assemblage Theory](assemblage-theory.md)
 * [Nomad Citizenship](nomad-citizenship.md)
@@ -12,6 +12,12 @@
 * [Anarchy, State and Utopia](anarchy-state-and-utopia.md)
 * [Imagined Communities](imagined-communities.md)
 * [Multitude](multitude.md)
-* [Notes: Post-geographic nation states](Post Geographic Nation States/post-geographic-nation-states.md)
-* Readings
+
+### Notes
+* [Post-geographic nation states](Post Geographic Nation States/README.md)
+  * [Trends](pgns/trends.md)
+  * [What do we Mean](pgns/what-do-we-mean.md)
+  * 
+
+
 
