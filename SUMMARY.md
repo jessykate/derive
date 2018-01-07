@@ -18,9 +18,9 @@
   * [Trends](states/trends.md)
   * [What do we Mean](states/what-do-we-mean.md)
   * 
-* [Money](money/README.md)
-  * [What is Money](money/what-is-money.md)
-  * [Uses of Currencies](money/currencies.md)
+* [Money](ledgers/README.md)
+  * [Uses of Currencies](ledgers/currencies.md)
+  * [Social Impact](ledgers/disruption.md)
   * 
 
 
