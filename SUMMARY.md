@@ -14,9 +14,13 @@
 * [Multitude](multitude.md)
 
 ### Notes
-* [Post-geographic nation states](pgns/README.md)
-  * [Trends](pgns/trends.md)
-  * [What do we Mean](pgns/what-do-we-mean.md)
+* [Post-geographic nation states](states/README.md)
+  * [Trends](states/trends.md)
+  * [What do we Mean](states/what-do-we-mean.md)
+  * 
+* [Money](money/README.md)
+  * [What is Money](money/what-is-money.md)
+  * [Uses of Currencies](money/currencies.md)
   * 
 
 
