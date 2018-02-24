@@ -1,4 +1,4 @@
-# Anarchist Ideas: Reading List
+# Anarchism Reading List
 
 A living list of anarchist writings. 
 
