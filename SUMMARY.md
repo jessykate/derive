@@ -12,6 +12,12 @@
    * [Anarchy, State and Utopia](theory/anarchy-state-and-utopia.md)
    * [Imagined Communities](theory/imagined-communities.md)
    * [Multitude](theory/multitude.md)
+   * [Anarchism Reading list](theory/anarchist-ideas-reading-list.md)
+   * [Prefiguring the State](theory/prefiguring-the-state.md)
+ 
+ * [Space Settlement](settlement/README.md)
+   * [Reading list](space-settlement-reading-list.md)  
+ 
 
 ### Notes
 * [Post-geographic nation states](states/README.md)
