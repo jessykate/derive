@@ -1,1 +1,1 @@
-Random and meandering readings. 
+Notes from ride.  
