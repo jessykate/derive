@@ -1,1 +1,1 @@
-Notes from ride.  
+Notes from the ride.  
