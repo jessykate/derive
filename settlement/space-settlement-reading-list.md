@@ -1,5 +1,7 @@
 # Space Settlement Reading List
 
+WIP. 
+
 Technical proposals and architectures, conceptual realizations and narratives of human settlement of space. These range from compelling science fiction to settlement architectures from government agencies and informed experts, to design documents and trade spaces for specific mission components.  
 
 Works should be of some note, whether due to impact, longevity or infamy. 
@@ -16,7 +18,6 @@ Works should be of some note, whether due to impact, longevity or infamy.
 ## Cultural and Commentary
 * Man Will Conquery Space Soon, a series of 1950s space articles in Collier's magazine. [Indexed on Wikipedia](https://en.wikipedia.org/wiki/Man_Will_Conquer_Space_Soon!). [Collected, color reprints](https://www.rmastri.it/spacestuff/wernher-von-braun/colliers-articles-on-the-conquest-of-space-1952-1954/) for download. _"After 25 years of continuous and directed thinking and endless hours of experimentation, von Braun, the world's leading rocket engineer, had the chance to come out of his sequestered military environment and through a national magazine inform the general public of his detailed blueprint for realizing manned space travel.[4]"_ ([ref](https://history.msfc.nasa.gov/vonbraun/disney_article.html))
 * 1929 German film, [Fau im Mond](http://www.daviddarling.info/encyclopedia/W/Woman_Moon.html) (Woman in the Moon). [Youtube!](https://www.youtube.com/watch?v=aHcazI9PgNg)
-
 
 
 ## Mars 
