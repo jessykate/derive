@@ -1,7 +1,7 @@
 # Summary
 
 ### Readings
-* Political Philosophy and Critical Theory 
+* [Political Philosophy and Critical Theory](readings/README.md) 
    * [A Thousand Years of Nonlinear History](a-thousand-years-of-nonlinear-history.md)
    * [Assemblage Theory](assemblage-theory.md)
    * [Nomad Citizenship](nomad-citizenship.md)
