@@ -6,8 +6,9 @@ Technical proposals and architectures, conceptual realizations and narratives of
 
 Works should be of some note, whether due to impact, longevity or infamy. 
 
-## Architectures and Development proposals
+## Overviews, Architectures and Development proposals
 
+1. [Colonization of the Moon](https://en.wikipedia.org/wiki/Colonization_of_the_Moon), Wikipedia page.
 1. [The High Frontier,](https://archive.org/details/highfrontierhuma00onei) Human Colonies in Space. Gerard ONeill, 1978. 
 1. [Krafft Arnold Ehricke](https://en.wikipedia.org/wiki/Krafft_Arnold_Ehricke). _"In 1948, while working for the U.S. Army, Ehricke wrote a story about a manned mission to Mars called "Expedition Ares". It anticipated the many challenges that still face explorers who will make the journey in the future. In the same year he wrote a book with Wernher von Braun, The Mars Project, which detailed how man could travel to Mars using a ferry system."_
    1. Expedition Ares
