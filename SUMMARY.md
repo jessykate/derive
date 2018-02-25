@@ -15,7 +15,7 @@
    * [Anarchism Reading list](theory/anarchist-ideas-reading-list.md)
    * [Prefiguring the State](theory/prefiguring-the-state.md)
 * [Space Settlement](settlement/README.md)
-   * [Reading list](space-settlement-reading-list.md)  
+   * [Reading list](settlement/space-settlement-reading-list.md)  
  
 
 ### Notes
