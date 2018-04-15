@@ -15,8 +15,12 @@
    * [Anarchism Reading list](theory/anarchist-ideas-reading-list.md)
    * [Prefiguring the State](theory/prefiguring-the-state.md)
 * [Space Settlement](settlement/README.md)
-   * [Reading list](settlement/space-settlement-reading-list.md)  
- 
+   * [Architecture Studies](settlement/architectures.md)  
+   * [Colonies](settlement/colonies.md)
+   * [Moon Maps](settlement/moon-maps.md)
+   * [Lunar Resources](settlement/lunar-resources.md)
+
+
 
 ### Notes
 * [Post-geographic nation states](states/README.md)
