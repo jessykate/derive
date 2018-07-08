@@ -14,6 +14,7 @@
    * [Multitude](theory/multitude.md)
    * [Anarchism Reading list](theory/anarchist-ideas-reading-list.md)
    * [Prefiguring the State](theory/prefiguring-the-state.md)
+   * [Astrofuturism](theory/astrofuturism.md)
 * [Space Settlement](settlement/README.md)
    * [Architecture Studies](settlement/architectures.md)  
    * [Colonies](settlement/colonies.md)
