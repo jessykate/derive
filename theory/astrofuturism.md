@@ -154,3 +154,40 @@ that was in some senses an unspoken contract of their acceptance into American
 society. As Chelsea says, "World War II has a lot to answer for."
 
 
+## Literature role, critical perspectives and space futures
+
+* "An investigation of the ideals and conflicts evident in America's dream of its future." P. 1
+* astrofuturism as "a social movent and a mode of literary expression" p. 5
+* "I want to interrogate mainstream astrofuturism to see how it answers undeniable evidence of its complicity in the injustices of this world and attempts to rescue it's goals for new political realities." p. 29
+* grasping the tools of dominant culture and using "vocabularies of aspiration" as those excluded "voice our dissent from the restrictions placed on its promises." p. 29
+* "at stake for me is the shape of the future: whether or not we can imagine, in any meaningful way, a future that both reflects and influences the complex realities of a complex world." p. 29
+* "in... Proto-astrofuturism the rocket and other technologies of spaceflight authorize the literary imagination, literature in turn makes that science culturally viable." p. 40 (would be true of literature in general!)
+
+## Tension: space as the great utopian unifier vs. space as conquest and domination, and legitimization of the American project  
+* broad argument that Lasser was an influential figure who shaped the early narrative about space in the 1930s through his role in space advocacy (American Interplanetary Society) and science fiction (wonder stories). It was a vision of a "common human destiny" that was "stable throughout Lasser's political career." p. 47. 
+* Lasser's investment in space travel's utopian potential is informed by his background as the child of immigrants and his commitment to a politically active scientism." p. 38
+* Lasser presents "space travel as a variety of political reform realizable in this world... [He] hopes to popularize a science that could change human relationships..." p. 39. 
+* "At the height of its influence, rocketry and the space programs associated with it became instruments for the projection of crude national ambitions. But thirty years before its involvement in cold war realpolitik, Lasser imagined space travel as an international venture directed by an International Interplanetary Commission headquartered in the Swiss Alps." p. 40. 
+* "spaceflight offers political hope because it borrows the ideal of scientific cooperation... In Lasser's future, the great reward of space exploration is the extension of human knowledge instead of national prestige." p. 40. 
+* for Lasser, there was a link between democratic socialism and progressive scientific positivism. In his book Conquest of Space, one of the explorer characters writes "we cannot but feel now that this journey has served its propose in breaking down of racial jealousies. All nations have United in a communion of joy... We realize now the fill making of Einstein's 'cosmic religion." p. 41, referring to Einstein's 1930 article on Religion and Science. 
+* "The conquest of space will illuminate the provonciality of nationalist ambitions and the racial divisions they require." p. 40 
+* Lasser, talking about the potential of spaceflight in 1957/58: "We may so establish the idea of the common heritage and common destiny that we share, that we can in time overcome the things that separate us." p. 47. 
+* so it's not necessarily that this was the dominant or only narrative- but that it was a significant one that was underlying much of the popular and science fiction work on that time. 
+* curious how widespread this idealistic/utopian narrative actually was. 
+* see p. 78 for quotes on American approach. 
+
+## Ch. 5 notes
+* O'Neill's vision as a literary extension of new deal suburbanism and escapism. an extension of American values of pluralism instead of narrative of abandonment. Not utopian (other) but familiar (family values and green pastures).  
+ * Space as an answer to the "limits to growth" debate. 
+ * From conquest of space to what O'Neill calls the humanization of space.
+* Conquest, nationalism, states, frontierism. 
+* Complicated notions of the frontier in/as human progress. (p. 165)
+
+* the desire to anchor in sociopolitical progress vs the vision of experimentation and diversity and freedom availed by the space frontier. "tension between a desire for genuine political alternatives and resistance to prescribing the nature of those alternatives."(p. 169).    Resistance or abdication? Willingness to prescribe or at least suggest technical solutions but not social ones. Why? "For O'Neill, freedom is guaranteed by machines and space, not by human desire or practice." p. 171). 
+
+* related but distinct point: The fundamental tension between space envisioned as a site of diversity and experimentation, and the conformism, homogeneity (unity?) and mass mobilization necessary to get there. Especially in O'Neill's vision which is rooted in conformist suburbanism and therefore undermines the promise of diversity and experimentation (p. 156). How, or can, the extension of industrial civilization also act as a societal valve to release pressure towards uniformity (p. 167)? 
+
+* if diversity IS achieved, then paradoxically it seems as though it is created through "locally intolerant monocultures." Does this have to be the case? Political differences "not resolved, but escaped." cf. New deal suburbanism). p. 169. 
+
+* the "steady state society" (p. 159)- possible? Or must we assume growth of ideas and knowledge?
+* O'Neill: humanization of the vision, social future not just conquest, democratic instead of militaristic, accessible, answer to overconsumption, limits to growth via resources of the sun, Moon and asteroids, answer to the left and desire for diversity through narrative of experimentation. 
