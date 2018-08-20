@@ -20,6 +20,7 @@
    * [Colonies](settlement/colonies.md)
    * [Moon Maps](settlement/moon-maps.md)
    * [Lunar Resources](settlement/lunar-resources.md)
+   * [Critical Space Reading List](settlement/critical-space-reading-list.md)
 
 
 
