@@ -20,10 +20,9 @@ Much of this list was sourced from [Astrofuturism](https://www.goodreads.com/boo
 * Arthur c Clarke, space flight and tht spirit of man, in voices from the sky. 
 * O'Neill, the high frontier, 1978. 
 * Heppenheimer, colonies in space, 1977. 
-* [Space colonies, ed. Stewart Brand, 1977](http://wholeearth.com/issue-electronic-edition.php?iss=1200) (**)
+* [Space colonies, A Coevolution book: ed. Stewart Brand, 1977](http://wholeearth.com/issue-electronic-edition.php?iss=1200)
 * on the feasibility of small power satellites,, heppenheimer and drexler , 1977, journal of energy. 
-* [Art Kleiner and Stewart Brand, news that stayed news, 1974-84](https://www.goodreads.com/book/show/4582386-news-that-stayed-news-1974-1984) (1986). (**)
-* 
+* [Art Kleiner and Stewart Brand, News that Stayed news, 1974-84: Ten Years Of Coevolution Quarterly](https://www.goodreads.com/book/show/4582386-news-that-stayed-news-1974-1984) (1986) 
 
 ## Analytical/retrospective
 * Heavens and the Earth, political history of the space age. McDougall, 1985
